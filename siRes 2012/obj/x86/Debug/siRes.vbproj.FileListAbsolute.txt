@@ -1,0 +1,189 @@
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\bin\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\bin\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\bin\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.Form1.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.formAltaUsuario.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.Resources.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\bin\Debug\siRes.exe.config
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.datos.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.formDisponibilidad.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.formAccesoResidencia.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.formReserva.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.formBusqueda.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.formExplotacionDatos.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.formPlazasSinFormalizar.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes\siRes\obj\x86\Debug\siRes.vbproj.ResolveComReference.cache
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\bin\Debug\siRes.exe.config
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.vbproj.ResolveComReference.cache
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.Form1.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formAccesoResidencia.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formAltaUsuario.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formBusqueda.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formDisponibilidad.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formExplotacionDatos.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formPlazasSinFormalizar.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formReserva.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.Resources.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\bin\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\bin\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\bin\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formEleccionBusquedaPorNombre.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formTraslado.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formReapertura.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formHistoricoTraslados.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\bin\Debug\siRes.exe.config
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.vbproj.ResolveComReference.cache
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\bin\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\bin\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\bin\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.Form1.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formAccesoResidencia.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formAltaUsuario.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formBusqueda.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formDisponibilidad.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formEleccionBusquedaPorNombre.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formExplotacionDatos.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formHistoricoTraslados.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formPlazasSinFormalizar.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formReapertura.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formReserva.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.formTraslado.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\siRes.Resources.resources
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\Nueva carpeta (2)\siRes\siRes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formAcercaDe.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formGestionResidencias.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes(con bd relacional)\siRes\siRes\obj\x86\Debug\siRes.formFechaIngreso.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\bin\Debug\siRes.exe.config
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.vbproj.ResolveComReference.cache
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\bin\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\bin\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\bin\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formAcercaDe.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.Form1.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formAccesoResidencia.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formAltaUsuario.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formBusqueda.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formDisponibilidad.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formEleccionBusquedaPorNombre.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formExplotacionDatos.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formFechaIngreso.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formGestionResidencias.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formHistoricoTraslados.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formPlazasSinFormalizar.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formReapertura.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formReserva.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.formTraslado.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\siRes.Resources.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer\siRes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\bin\Debug\siRes.exe.config
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.exe
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.xml
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.pdb
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\bin\Debug\siRes.exe
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\bin\Debug\siRes.pdb
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\bin\Debug\siRes.xml
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formAcercaDe.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.Form1.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formAccesoResidencia.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formAltaUsuario.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formBusqueda.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formDisponibilidad.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formEleccionBusquedaPorNombre.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formExplotacionDatos.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formFechaIngreso.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formGestionResidencias.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formHistoricoTraslados.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formPlazasSinFormalizar.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formReapertura.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formReserva.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.formTraslado.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\siRes.Resources.resources
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Marga\Escritorio\siRes para exponer\siRes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\bin\Debug\siRes.exe.config
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\bin\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\bin\Debug\siRes.pdb
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\bin\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formAcercaDe.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.Form1.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formAccesoResidencia.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formAltaUsuario.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formBusqueda.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formDisponibilidad.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formEleccionBusquedaPorNombre.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formExplotacionDatos.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formFechaIngreso.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formGestionResidencias.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formHistoricoTraslados.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formPlazasSinFormalizar.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formReapertura.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formReserva.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.formTraslado.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\siRes.Resources.resources
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes para exponer corregido\siRes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes (con bd Relacional)\siRes\bin\Debug\siRes.exe.config
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.exe
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.xml
+C:\Documents and Settings\WinXP\Escritorio\siRes\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.pdb
+C:\Users\win7_2012\Desktop\siRes (con bd Relacional)\siRes\bin\Debug\siRes.exe.config
+C:\Users\win7_2012\Desktop\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.exe
+C:\Users\win7_2012\Desktop\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.xml
+C:\Users\win7_2012\Desktop\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.pdb
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\bin\Debug\siRes.exe.config
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.exe
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.xml
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.pdb
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\bin\Debug\siRes.exe
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\bin\Debug\siRes.pdb
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\bin\Debug\siRes.xml
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formAcercaDe.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.Form1.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formAccesoResidencia.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formAltaUsuario.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formBusqueda.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formDisponibilidad.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formEleccionBusquedaPorNombre.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formExplotacionDatos.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formFechaIngreso.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formGestionResidencias.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formHistoricoTraslados.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formPlazasSinFormalizar.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formReapertura.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formReserva.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.formTraslado.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.Resources.resources
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\bin\Debug\siRes.exe.manifest
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\bin\Debug\siRes.application
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.exe.manifest
+C:\Users\win7_2012\Desktop\PROYECTOS VISUAL BASIC\siRes (con bd Relacional)\siRes\obj\x86\Debug\siRes.application
